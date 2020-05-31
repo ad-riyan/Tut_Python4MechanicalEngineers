@@ -106,5 +106,6 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       Kliklah file yang berekstensi **\*.ipynb** yang sesuai dengan pelatihan yang sedang berjalan.
       
     * JupyterLab
-    
+      ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/jupyterlab.png)
+      Kliklah file yang berekstensi **\*.ipynb** yang sesuai dengan pelatihan yang sedang berjalan di bagian sidebar kiri yang berlogo folder.
       
