@@ -2,6 +2,8 @@
 
 #### Adriyan, 2020
 
+**Note**: Materi-materi yang belum tersedia *link*-nya pada kolom **Materi** belum selesai dibuat. Materi yang sudah selesai dibuat akan di-*post update*-nya di Github ini dan juga diinfokan melalui WA Grup LDS Family.  
+
 ---
 
 Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers) ini merupakan *hosting* untuk materi pelatihan python untuk LDS Family - Teknik Mesin Universitas Andalas.
