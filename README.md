@@ -68,6 +68,8 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
   </tbody>
 </table>
 
+[^ kembali ke daftar isi](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#daftar-isi)
+
 <br><br>
 
 ## B. Bagaimana Menggunakannya
@@ -150,6 +152,8 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/jupyterlab.png)
       Kliklah file yang berekstensi **\*.ipynb** yang sesuai dengan pelatihan yang sedang berjalan di bagian sidebar kiri yang berlogo folder.
 
+[^ kembali ke daftar isi](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#daftar-isi)
+
 <br><br>
 
 ## C. Menggunakan Google Colab, Jupyter Notebook, atau JupyterLab 
@@ -163,5 +167,7 @@ Untuk menggunakan
     atau mengklik **Help > Notebook Help** yang akan membuka *link* berikut: https://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Index.ipynb.
 
 3. JupyterLab Anda dapat mengunjungi *link* ini: https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b.
+
+[^ kembali ke daftar isi](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#daftar-isi)
 
 ---
