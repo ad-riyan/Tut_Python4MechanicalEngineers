@@ -3,7 +3,8 @@
 
 Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers) ini merupakan *hosting* untuk materi pelatihan python untuk LDS Family - Teknik Mesin Universitas Andalas.
 
-**Materi pelatihan**:
+## A. Jadwal dan Materi Pelatihan
+
 <table>
   <thead>
     <tr>
@@ -52,3 +53,12 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     </tr>
   </tbody>
 </table>
+
+
+## B. Bagaimana Menggunakannya
+
+### B.1. Google Colaboratory
+
+### B.2. Anaconda Individual Edition
+1. [Download Anaconda Individual Edition](https://www.anaconda.com/products/individual)
+
