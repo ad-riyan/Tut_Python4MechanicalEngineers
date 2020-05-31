@@ -58,6 +58,8 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
 ## B. Bagaimana Menggunakannya
 
 ### B.1. Google Colaboratory
+1. Buka di https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers
+2. Pilih materi yang akan dibuka sesuai dengan jadwal
 
 ### B.2. Anaconda Individual Edition
 1. [Download Anaconda Individual Edition](https://www.anaconda.com/products/individual) sesuai dengan sistem operasi komputer Anda.
@@ -66,7 +68,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
 ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/gitclone-download.png)
 4. Tempatkan di *directory* yang Anda telah persiapkan misal:
     * untuk windows di **D:\Training**
-    * untuk berbagai distro linux di **/home/Training**
+    * untuk berbagai distro linux di **/home/user_name/Training** ata **/Training** saja
 5. Ekstrak materi pelatihan yang telah di-*compress*
 6. Untuk
     * Windows:: Klik **Start Menu**, cari dan klik **Anaconda3 (64bit)** di Program folder, Anda dapat menggunakan **Anaconda Powershell Prompt (Anaconda3)** atau **Anaconda Prompt (Anaconda3)** 
@@ -76,10 +78,26 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       ```
       (base) PS C:\Users\your_pc_name> D:
       (base) D:\> cd .\Training\Tutorial_Python4MechanicalEngineers-master\
+      ```
+      dan jalankan Jupyter Notebook 
+      ```
       (base) PS D:\Training\Tutorial_Python4MechanicalEngineers-master> jupyter notebook
       ```
-      atau
+      atau JupyterLab
       ```
       (base) PS D:\Training\Tutorial_Python4MechanicalEngineers-master> jupyter lab
+      ```
+    * untuk Distro Linux dapat mengetikkan 
+      ```
+      user_name@your_pc_name:~$
+      user_name@your_pc_name:~$ cd Training/
+      ```
+      dan jalankan Jupyter Notebook 
+      ```
+      user_name@your_pc_name:~/Training$ jupyter notebook
+      ```
+      atau JupyterLab
+      ```
+      user_name@your_pc_name:~/Training$ jupyter lab
       ```
 
