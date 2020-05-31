@@ -58,21 +58,36 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
 ## B. Bagaimana Menggunakannya
 
 ### B.1. Google Colaboratory
+
 1. Buka di https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers
-2. Pilih materi yang akan dibuka sesuai dengan jadwal
+
+2. Pilih materi yang akan dibuka sesuai dengan jadwal dan materi pelatihan (Bagian A), misal: <a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P01_Python3.ipynb" target="_blank">P01-Python3</a>
+
+3. Klik-lah ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/openincolab.png) pada
+  ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/git2colab.png)
+
+4. File **P01_Python3.ipynb** masih berada di 
+
 
 ### B.2. Anaconda Individual Edition
+
 1. [Download Anaconda Individual Edition](https://www.anaconda.com/products/individual) sesuai dengan sistem operasi komputer Anda.
+
 2. [Install Anaconda Individual Edition](https://docs.anaconda.com/anaconda/install/) sesuai dengan petunjuknya untuk sistem operasi komputer Anda.
+
 3. Download materi pelatihan ini di https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers dengan cara:
    ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/gitclone-download.png)
+   
 4. Tempatkan di *directory* yang Anda telah persiapkan misal:
     * untuk windows di **D:\Training**
     * untuk berbagai distro linux di **/home/user_name/Training** ata **/Training** saja
+ 
 5. Ekstrak materi pelatihan yang telah di-*compress*
+
 6. Untuk
     * Windows:: Klik **Start Menu**, cari dan klik **Anaconda3 (64bit)** di Program folder, Anda dapat menggunakan **Anaconda Powershell Prompt (Anaconda3)** atau **Anaconda Prompt (Anaconda3)** 
     * Distro linux:: Buka terminal linux
+
 7. *Change directory* ke *directory* di mana Anda menyimpan materi pelatihan tadi
     * untuk Windows dapat mengetikkan 
       ```
@@ -100,6 +115,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       ```
       user_name@your_pc_name:~/Training/Tutorial_Python4MechanicalEngineers-master$ jupyter lab
       ```
+
 8. Pada layar *browser* Anda akan muncul
     * Jupyter Notebook
       ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/jupyternotebook_front.png)
