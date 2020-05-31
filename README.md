@@ -94,6 +94,8 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
 5. File **Copy of P01-Python3.ipynb** dapat Anda temui di **My Drive > Colab Notebooks**.
 ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/mydrive_colabnb.png)
 
+[^ kembali ke daftar isi](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#daftar-isi)
+
 <br>
 
 ### B.2. Anaconda Individual Edition
