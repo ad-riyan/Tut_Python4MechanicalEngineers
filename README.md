@@ -60,5 +60,12 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
 ### B.1. Google Colaboratory
 
 ### B.2. Anaconda Individual Edition
-1. [Download Anaconda Individual Edition](https://www.anaconda.com/products/individual)
+1. [Download Anaconda Individual Edition](https://www.anaconda.com/products/individual) sesuai dengan sistem operasi komputer Anda.
+2. [Install Anaconda Individual Edition](https://docs.anaconda.com/anaconda/install/) sesuai dengan petunjuknya untuk sistem operasi komputer Anda.
+3. Download materi pelatihan ini di https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers dengan cara:
+![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/gitclone-download.png)
+4. Tempatkan di *directory* yang Anda telah persiapkan misal:
+    * untuk windows di D:\Training
+    * untuk berbagai distro linux di /home/Training
+5. 
 
