@@ -1,4 +1,7 @@
 # LDS Family Tutorial: Python4MechanicalEngineers
+
+#### Adriyan, 2020
+
 ---
 
 Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers) ini merupakan *hosting* untuk materi pelatihan python untuk LDS Family - Teknik Mesin Universitas Andalas.
