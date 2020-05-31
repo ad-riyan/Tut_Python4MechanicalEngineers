@@ -73,13 +73,13 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     * Distro linux:: Buka terminal linux
 7. *Change directory* ke *directory* di mana Anda menyimpan materi pelatihan tadi
     * untuk Windows dapat mengetikkan 
-    ```
-    (base) PS C:\Users\your_pc_name> D:
-    (base) D:\> cd .\Training\Tutorial_Python4MechanicalEngineers-master\
-    (base) PS D:\Training\Tutorial_Python4MechanicalEngineers-master> jupyter notebook
-    ```
-    atau
-    ```
-    (base) PS D:\Training\Tutorial_Python4MechanicalEngineers-master> jupyter lab
-    ```
+      ```
+      (base) PS C:\Users\your_pc_name> D:
+      (base) D:\> cd .\Training\Tutorial_Python4MechanicalEngineers-master\
+      (base) PS D:\Training\Tutorial_Python4MechanicalEngineers-master> jupyter notebook
+      ```
+      atau
+      ```
+      (base) PS D:\Training\Tutorial_Python4MechanicalEngineers-master> jupyter lab
+      ```
 
