@@ -28,7 +28,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     <tr>
       <td rowspan=2>Sabtu, 13 Juni 2020</td>
       <td rowspan=2>ME02</td>
-      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_NumPy.ipynb" target="_blank">P02-Numpy</a></td>
+      <td>P02-Numpy</td>
       <td>Numerical python: a n-dimensional array package</td>
     </tr>
     <tr>
@@ -65,7 +65,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
 1. [Download Anaconda Individual Edition](https://www.anaconda.com/products/individual) sesuai dengan sistem operasi komputer Anda.
 2. [Install Anaconda Individual Edition](https://docs.anaconda.com/anaconda/install/) sesuai dengan petunjuknya untuk sistem operasi komputer Anda.
 3. Download materi pelatihan ini di https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers dengan cara:
-![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/gitclone-download.png)
+   ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/gitclone-download.png)
 4. Tempatkan di *directory* yang Anda telah persiapkan misal:
     * untuk windows di **D:\Training**
     * untuk berbagai distro linux di **/home/user_name/Training** ata **/Training** saja
@@ -90,14 +90,21 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     * untuk Distro Linux dapat mengetikkan 
       ```
       user_name@your_pc_name:~$
-      user_name@your_pc_name:~$ cd Training/
+      user_name@your_pc_name:~$ cd Training/Tutorial_Python4MechanicalEngineers-master/
       ```
       dan jalankan Jupyter Notebook 
       ```
-      user_name@your_pc_name:~/Training$ jupyter notebook
+      user_name@your_pc_name:~/Training/Tutorial_Python4MechanicalEngineers-master$ jupyter notebook
       ```
       atau JupyterLab
       ```
-      user_name@your_pc_name:~/Training$ jupyter lab
+      user_name@your_pc_name:~/Training/Tutorial_Python4MechanicalEngineers-master$ jupyter lab
       ```
-
+8. Pada layar *browser* Anda akan muncul
+    * Jupyter Notebook
+      ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/jupyternotebook_front.png)
+      Kliklah file yang berekstensi **\*.ipynb** yang sesuai dengan pelatihan yang sedang berjalan.
+      
+    * JupyterLab
+    
+      
