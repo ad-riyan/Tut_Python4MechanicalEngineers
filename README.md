@@ -3,6 +3,8 @@
 
 Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers) ini merupakan *hosting* untuk materi pelatihan python untuk LDS Family - Teknik Mesin Universitas Andalas.
 
+<br>
+
 ## A. Jadwal dan Materi Pelatihan
 
 <table>
@@ -54,6 +56,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
   </tbody>
 </table>
 
+<br><br>
 
 ## B. Bagaimana Menggunakannya
 
@@ -66,8 +69,18 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
 3. Klik-lah ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/openincolab.png) pada
   ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/git2colab.png)
 
-4. File **P01_Python3.ipynb** masih berada di 
+4. File **P01_Python3.ipynb** masih berada di Github ini seperti yang dapat diperhatikan melalui address bar browser Anda. 
 
+    ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/ipynb_colab_github.png)
+  
+    Untuk itu Anda dapat meng-*copy*-nya ke Google Drive akun Anda masing-masing dengan mengklik ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/copy2drive.png). Sehingga akan menjadi
+
+    ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/ipynb_copygdrive.png)
+
+5. File **Copy of P01-Python3.ipynb** dapat Anda temui di **My Drive > Colab Notebooks**.
+![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/mydrive_colabnb.png)
+
+<br>
 
 ### B.2. Anaconda Individual Edition
 
@@ -124,4 +137,19 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     * JupyterLab
       ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/jupyterlab.png)
       Kliklah file yang berekstensi **\*.ipynb** yang sesuai dengan pelatihan yang sedang berjalan di bagian sidebar kiri yang berlogo folder.
-      
+
+<br><br>
+
+## C. Menggunakan Google Colab, Jupyter Notebook, atau JupyterLab 
+Untuk menggunakan
+1. Google Colab Anda dapat mengunjungi *link* ini: https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c. 
+
+2. Jupyter Notebook dapat mengklik **Help > User Interface Tour**
+
+    ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/jupyternotebook_ui_tour.png)
+    
+    atau mengklik **Help > Notebook Help** yang akan membuka *link* berikut: https://nbviewer.jupyter.org/github/ipython/ipython/blob/3.x/examples/Notebook/Index.ipynb.
+
+3. JupyterLab Anda dapat mengunjungi *link* ini: https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b.
+
+---
