@@ -65,11 +65,21 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
 3. Download materi pelatihan ini di https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers dengan cara:
 ![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/readme_figures/gitclone-download.png)
 4. Tempatkan di *directory* yang Anda telah persiapkan misal:
-    * untuk windows di D:\Training
-    * untuk berbagai distro linux di /home/Training
+    * untuk windows di **D:\Training**
+    * untuk berbagai distro linux di **/home/Training**
 5. Ekstrak materi pelatihan yang telah di-*compress*
 6. Untuk
-    * Windows:: Klik Start Menu, cari dan klik Anaconda3 (64bit) di Program folder, Anda dapat menggunakan Anaconda Powershell Prompt (Anaconda3) atau Anaconda Prompt (Anaconda3) 
+    * Windows:: Klik **Start Menu**, cari dan klik **Anaconda3 (64bit)** di Program folder, Anda dapat menggunakan **Anaconda Powershell Prompt (Anaconda3)** atau **Anaconda Prompt (Anaconda3)** 
     * Distro linux:: Buka terminal linux
-7. 
+7. *Change directory* ke *directory* di mana Anda menyimpan materi pelatihan tadi
+    * untuk Windows dapat mengetikkan 
+    ```
+    (base) PS C:\Users\your_pc_name> D:
+    (base) D:\> cd .\Training\Tutorial_Python4MechanicalEngineers-master\
+    (base) PS D:\Training\Tutorial_Python4MechanicalEngineers-master> jupyter notebook
+    ```
+    atau
+    ```
+    (base) PS D:\Training\Tutorial_Python4MechanicalEngineers-master> jupyter lab
+    ```
 
