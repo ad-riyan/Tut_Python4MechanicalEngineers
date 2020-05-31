@@ -67,5 +67,9 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
 4. Tempatkan di *directory* yang Anda telah persiapkan misal:
     * untuk windows di D:\Training
     * untuk berbagai distro linux di /home/Training
-5. 
+5. Ekstrak materi pelatihan yang telah di-*compress*
+6. Untuk
+    * Windows:: Klik Start Menu, cari dan klik Anaconda3 (64bit) di Program folder, Anda dapat menggunakan Anaconda Powershell Prompt (Anaconda3) atau Anaconda Prompt (Anaconda3) 
+    * Distro linux:: Buka terminal linux
+7. 
 
