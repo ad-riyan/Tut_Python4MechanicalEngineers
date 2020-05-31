@@ -17,17 +17,17 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     <tr>
       <td rowspan=2>Sabtu, 6 Juni 2020</td>
       <td rowspan=2>ME01</td>
-      <td><a target="_blank" and rel="noopener noreferrer" href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P00_Python4ME.ipynb">P00-Python4ME</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P00_Python4ME.ipynb" target="_blank">P00-Python4ME</a></td>
       <td>Apa itu bahasa pemrograman python</td>
     </tr>
     <tr>
-      <td>P01-Python3</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P01_Python3.ipynb" target="_blank">P01-Python3</a></td>
       <td>Bahasa pemrograman python</td>
     </tr>
     <tr>
       <td rowspan=2>Sabtu, 13 Juni 2020</td>
       <td rowspan=2>ME02</td>
-      <td>P02-Numpy</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_NumPy.ipynb" target="_blank">P02-Numpy</a></td>
       <td>Numerical python: a n-dimensional array package</td>
     </tr>
     <tr>
