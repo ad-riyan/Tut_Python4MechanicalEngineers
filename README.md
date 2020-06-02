@@ -127,6 +127,7 @@ Ikutilah masing-masing langkah dengan cermat. :)
 
 7. *Change directory* ke *directory* di mana Anda menyimpan materi pelatihan tadi
     * untuk Windows dapat mengetikkan 
+      `your_pc_name` merupakan nama pc Anda ketika menginstall OS windows.
       ```
       (base) PS C:\Users\your_pc_name> D:
       (base) D:\> cd .\Training\Tutorial_Python4MechanicalEngineers-master\
