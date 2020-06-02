@@ -40,7 +40,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>Bahasa pemrograman python</td>
     </tr>
     <tr>
-      <td rowspan=2>Sabtu, 13 Juni 2020</td>
+      <td rowspan=2>Jumat, 12 Juni 2020</td>
       <td rowspan=2>ME02</td>
       <td>P02-Numpy</td>
       <td>Numerical python: a n-dimensional array package</td>
@@ -50,7 +50,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>A visualization package</td>
     </tr>
     <tr>
-      <td rowspan=2>Sabtu, 20 Juni 2020</td>
+      <td rowspan=2>Jumat, 19 Juni 2020</td>
       <td rowspan=2>ME03</td>
       <td>P04-Scipy</td>
       <td>A scientific package for integration, differentiation, linear algebra, signal processing, fft, statistics, root finding, optimization, etc.</td>
@@ -60,7 +60,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>IPython for notebook and its magic :)</td>
     </tr>
     <tr>
-      <td>Sabtu, 27 Juni 2020</td>
+      <td>Jumat, 26 Juni 2020</td>
       <td>ME04</td>
       <td>P06-Sympy</td>
       <td>A symbolic computing package</td>
