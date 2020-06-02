@@ -141,16 +141,16 @@ Ikutilah masing-masing langkah dengan cermat. :)
       (base) PS D:\Training\Tutorial_Python4MechanicalEngineers-master> jupyter lab
       ```
     * untuk Distro Linux dapat mengetikkan 
-      ```
+      ```bash
       user_name@your_pc_name:~$
       user_name@your_pc_name:~$ cd Training/Tutorial_Python4MechanicalEngineers-master/
       ```
       dan jalankan Jupyter Notebook 
-      ```
+      ```bash
       user_name@your_pc_name:~/Training/Tutorial_Python4MechanicalEngineers-master$ jupyter notebook
       ```
       atau JupyterLab
-      ```
+      ```bash
       user_name@your_pc_name:~/Training/Tutorial_Python4MechanicalEngineers-master$ jupyter lab
       ```
 
