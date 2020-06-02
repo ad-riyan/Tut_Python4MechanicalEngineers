@@ -77,8 +77,8 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
 ## B. Bagaimana Menggunakannya
 
 Anda dapat memilih untuk menggunakan
-   * [B.1 Google Colaboratory](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#b1-google-colaboratory)
-   * [B.2 Anaconda Individual Edition](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#b2-anaconda-individual-edition)
+   * [B.1 Google Colaboratory](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#b1-google-colaboratory) untuk versi cloud.
+   * [B.2 Anaconda Individual Edition](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#b2-anaconda-individual-edition) untuk versi yang ter-*install* di masing-masing komputer Anda.
    
 Ikutilah masing-masing langkah dengan cermat. :)
 
