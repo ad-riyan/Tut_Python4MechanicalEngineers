@@ -4,7 +4,7 @@
 
 #### Adriyan, 2020
 
-**Note**: Materi-materi yang belum tersedia *link*-nya pada kolom **Materi** belum selesai dibuat. Materi yang sudah selesai dibuat akan di-*post update*-nya di Github ini dan juga diinfokan melalui WA Grup LDS Family.  
+**Note**: Materi-materi yang belum tersedia *link*-nya pada kolom **Materi** belum selesai dibuat. Materi yang sudah selesai dibuat akan di-*post update*-nya di Github ini dan juga diinfokan melalui **WA Grup: LDS family - Python4ME**.  
 
 ---
 
