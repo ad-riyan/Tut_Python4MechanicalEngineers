@@ -1,5 +1,7 @@
 # LDS Family Tutorial: Python4MechanicalEngineers
 
+![](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/figures_Python4ME/P00-python4me.png)
+
 #### Adriyan, 2020
 
 **Note**: Materi-materi yang belum tersedia *link*-nya pada kolom **Materi** belum selesai dibuat. Materi yang sudah selesai dibuat akan di-*post update*-nya di Github ini dan juga diinfokan melalui WA Grup LDS Family.  
