@@ -44,7 +44,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     <tr>
       <td rowspan=3>Jumat, 12 Juni 2020</td>
       <td rowspan=3>ME02</td>
-      <td>P02-Numpy</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_NumPy.ipynb" target="_blank">P02-Numpy</a></td>
       <td>Numerical python: a n-dimensional array package</td>
     </tr>
     <tr>
