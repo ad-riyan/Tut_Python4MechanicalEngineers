@@ -52,6 +52,10 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>A visualization package</td>
     </tr>
     <tr>
+      <td>P02-P03-Studi Kasus</td>
+      <td>Studi Kasus untuk P02 dan P03</td>
+    </tr> 
+    <tr>
       <td rowspan=2>Jumat, 19 Juni 2020</td>
       <td rowspan=2>ME03</td>
       <td>P04-Scipy</td>
