@@ -42,8 +42,8 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>Bahasa pemrograman python</td>
     </tr>
     <tr>
-      <td rowspan=2>Jumat, 12 Juni 2020</td>
-      <td rowspan=2>ME02</td>
+      <td rowspan=3>Jumat, 12 Juni 2020</td>
+      <td rowspan=3>ME02</td>
       <td>P02-Numpy</td>
       <td>Numerical python: a n-dimensional array package</td>
     </tr>
@@ -56,14 +56,18 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>Studi Kasus untuk P02 dan P03</td>
     </tr> 
     <tr>
-      <td rowspan=2>Jumat, 19 Juni 2020</td>
-      <td rowspan=2>ME03</td>
+      <td rowspan=3>Jumat, 19 Juni 2020</td>
+      <td rowspan=3>ME03</td>
       <td>P04-Scipy</td>
       <td>A scientific package for integration, differentiation, linear algebra, signal processing, fft, statistics, root finding, optimization, etc.</td>
     </tr>
     <tr>
       <td>P05-IPython</td>
       <td>IPython for notebook and its magic :)</td>
+    </tr>
+    <tr>
+      <td>P04-P05-Studi Kasus</td>
+      <td>Studi Kasus untuk P04 dan P05</td>
     </tr>
     <tr>
       <td>Jumat, 26 Juni 2020</td>
