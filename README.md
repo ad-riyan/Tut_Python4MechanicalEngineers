@@ -78,6 +78,8 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
   </tbody>
 </table>
 
+Setiap pertemuan ME01, ME02, ME03, dan ME04 dilaksanakan mulai dari jam 20.00 s/d 22.00 WIB. 
+
 [^ kembali ke daftar isi](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#daftar-isi)
 
 <br><br>
