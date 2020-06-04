@@ -52,7 +52,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>A visualization package</td>
     </tr>
     <tr>
-      <td>P02-P03-Studi Kasus</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_P03_Studi_Kasus.ipynb" target="_blank">P02-P03-Studi Kasus</a></td>
       <td>Studi Kasus untuk P02 dan P03</td>
     </tr> 
     <tr>
@@ -78,7 +78,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
   </tbody>
 </table>
 
-Setiap pertemuan ME01, ME02, ME03, dan ME04 dilaksanakan mulai dari jam 20.00 s/d 22.00 WIB. 
+Setiap pertemuan ME01, ME02, ME03, dan ME04 dilaksanakan mulai dari jam **20.00 s/d 22.00 WIB**. 
 
 [^ kembali ke daftar isi](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#daftar-isi)
 
