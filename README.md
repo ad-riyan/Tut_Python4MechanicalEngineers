@@ -55,7 +55,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     </tr>
     <tr>
       <td rowspan=3>Jumat, 19 Juni 2020</td>
-      <td rowspan=3>ME02</td>
+      <td rowspan=3>ME03</td>
       <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_NumPy.ipynb" target="_blank">P02-Numpy</a></td>
     <td>Numerical python: a <i>n</i>-dimensional array package</td>
     </tr>
@@ -69,7 +69,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     </tr> 
     <tr>
       <td rowspan=3>Jumat, 26 Juni 2020</td>
-      <td rowspan=3>ME03</td>
+      <td rowspan=3>ME04</td>
       <td>P04-Scipy</td>
       <td>A scientific package for scientific computation: integration, differentiation, linear algebra, signal processing, fft, statistics, root finding, optimization, etc.</td>
     </tr>
@@ -83,13 +83,13 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     </tr>
     <tr>
       <td>Jumat, 3 Juli 2020</td>
-      <td>ME04</td>
+      <td>ME05</td>
       <td>P06-Sympy</td>
       <td>A symbolic computing package</td>
     </tr>
     <tr>
     <td><b>By request</b></td>
-      <td>ME05</td>
+      <td>ME06</td>
       <td>P07-Pandas</td>
       <td>Python data analysis library</td>
     </tr>
