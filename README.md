@@ -32,20 +32,32 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
   </thead>
   <tbody>
     <tr>
-      <td rowspan=2>Sabtu, 6 Juni 2020</td>
-      <td rowspan=2>ME01</td>
+      <td rowspan=2>Jumat, 5 Juni 2020</td>
+      <td rowspan=2>ME00</td>
+      <td>P00-Intro to Google Colab</a></td>
+      <td>Google colaboratory, its UI and how to use it for scientific document.</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P00_Python4ME.ipynb" target="_blank">P00-Python4ME</a></td>
-      <td>Apa itu bahasa pemrograman python</td>
+      <td>Introduction to python programming language</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P01_Python3.ipynb" target="_blank">P01-Python3</a></td>
-      <td>Bahasa pemrograman python</td>
+      <td>Jumat, 6 Juni 2020</td>
+      <td>ME01</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P01_Python3.ipynb" target="_blank">P01-Python3</a> - Part 1</td>
+      <td>Learn how to program with python programming language, part 1</td>
     </tr>
     <tr>
-      <td rowspan=3>Jumat, 12 Juni 2020</td>
+      <td>Jumat, 12 Juni 2020</td>
+      <td>ME02</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P01_Python3.ipynb" target="_blank">P01-Python3</a> - Part 2</td>
+      <td>Learn how to program with python programming language, part 2</td>
+    </tr>
+    <tr>
+      <td rowspan=3>Jumat, 19 Juni 2020</td>
       <td rowspan=3>ME02</td>
       <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_NumPy.ipynb" target="_blank">P02-Numpy</a></td>
-      <td>Numerical python: a n-dimensional array package</td>
+    <td>Numerical python: a <i>n</i>-dimensional array package</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P03_Matplotlib.ipynb" target="_blank">P03-Matplotlib</a></td>
@@ -53,13 +65,13 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     </tr>
     <tr>
       <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_P03_Studi_Kasus.ipynb" target="_blank">P02-P03-Studi Kasus</a></td>
-      <td>Studi Kasus untuk P02 dan P03</td>
+      <td>Case studies for P02 and P03</td>
     </tr> 
     <tr>
-      <td rowspan=3>Jumat, 19 Juni 2020</td>
+      <td rowspan=3>Jumat, 26 Juni 2020</td>
       <td rowspan=3>ME03</td>
       <td>P04-Scipy</td>
-      <td>A scientific package for integration, differentiation, linear algebra, signal processing, fft, statistics, root finding, optimization, etc.</td>
+      <td>A scientific package for scientific computation: integration, differentiation, linear algebra, signal processing, fft, statistics, root finding, optimization, etc.</td>
     </tr>
     <tr>
       <td>P05-IPython</td>
@@ -67,18 +79,24 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     </tr>
     <tr>
       <td>P04-P05-Studi Kasus</td>
-      <td>Studi Kasus untuk P04 dan P05</td>
+      <td>Case studies for P04 and P05</td>
     </tr>
     <tr>
-      <td>Jumat, 26 Juni 2020</td>
+      <td>Jumat, 3 Juli 2020</td>
       <td>ME04</td>
       <td>P06-Sympy</td>
       <td>A symbolic computing package</td>
     </tr>
+    <tr>
+    <td><b>By request</b></td>
+      <td>ME05</td>
+      <td>P07-Pandas</td>
+      <td>Python data analysis library</td>
+    </tr>
   </tbody>
 </table>
 
-Setiap pertemuan ME01, ME02, ME03, dan ME04 dilaksanakan mulai dari jam **20.00 s/d 22.00 WIB**. 
+Setiap pertemuan dilaksanakan mulai dari jam **20.00 s/d 22.00 WIB**. 
 
 [^ kembali ke daftar isi](https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers#daftar-isi)
 
