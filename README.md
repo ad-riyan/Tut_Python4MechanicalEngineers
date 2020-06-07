@@ -42,7 +42,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>Introduction to python programming language</td>
     </tr>
     <tr>
-      <td>Jumat, 6 Juni 2020</td>
+      <td>Sabtu, 6 Juni 2020</td>
       <td>ME01</td>
       <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P01_Python3.ipynb" target="_blank">P01-Python3</a> - Part 1</td>
       <td>Learn how to program with python programming language, part 1</td>
