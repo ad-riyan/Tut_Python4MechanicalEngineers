@@ -61,7 +61,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>Numerical python: a <i>n</i>-dimensional array package</td>
     </tr>
     <tr>
-      <td rowspan=3>Jumat, 3 Juli 2020</td>
+      <td rowspan=3>Jumat, 10 Juli 2020</td>
       <td rowspan=3>ME03</td>
       <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P03_Matplotlib.ipynb" target="_blank">P03-Matplotlib</a></td>
       <td>A visualization package</td>
