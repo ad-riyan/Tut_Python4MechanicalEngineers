@@ -70,7 +70,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     <tr>
       <td rowspan=3>Jumat, 26 Juni 2020</td>
       <td rowspan=3>ME04</td>
-      <td>P04-Scipy</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P04_SciPy.ipynb">P04-Scipy</a></td>
       <td>A scientific package for scientific computation: integration, differentiation, linear algebra, signal processing, fft, statistics, root finding, optimization, etc.</td>
     </tr>
     <tr>
