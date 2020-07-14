@@ -91,7 +91,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     <tr>
       <td>Jumat, 24 Juli 2020</td>
       <td>ME05</td>
-      <td>P06-Sympy</td>
+      <td><a hreh="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P06_SymPy.ipynb">P06-Sympy</a></td>
       <td>A symbolic computing package</td>
     </tr>
     <tr>
