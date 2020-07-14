@@ -43,46 +43,53 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
     </tr>
     <tr>
       <td>Sabtu, 6 Juni 2020</td>
-      <td>ME01</td>
-      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P01_Python3.ipynb" target="_blank">P01-Python3</a> - Part 1</td>
-      <td>Learn how to program with python programming language, part 1</td>
+      <td>ME01 - Part 1</td>
+      <td rowspan=3><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P01_Python3.ipynb" target="_blank">P01-Python3</a></td>
+      <td rowspan=3>Learn how to program with python programming language</td>
     </tr>
     <tr>
       <td>Jumat, 12 Juni 2020</td>
+      <td>ME01 - Part 2</td>
+    </tr>
+    <tr>
+      <td rowspan=2>Jumat, 19 Juni 2020</td>
+      <td>ME01 - Part 3</td>
+    </tr>
+    <tr>
       <td>ME02</td>
-      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P01_Python3.ipynb" target="_blank">P01-Python3</a> - Part 2</td>
-      <td>Learn how to program with python programming language, part 2</td>
-    </tr>
-    <tr>
-      <td rowspan=3>Jumat, 19 Juni 2020</td>
-      <td rowspan=3>ME03</td>
       <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_NumPy.ipynb" target="_blank">P02-Numpy</a></td>
-    <td>Numerical python: a <i>n</i>-dimensional array package</td>
+      <td>Numerical python: a <i>n</i>-dimensional array package</td>
     </tr>
     <tr>
+      <td rowspan=3>Jumat, 3 Juli 2020</td>
+      <td rowspan=3>ME03</td>
       <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P03_Matplotlib.ipynb" target="_blank">P03-Matplotlib</a></td>
       <td>A visualization package</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_P03_Studi_Kasus.ipynb" target="_blank">P02-P03-Studi Kasus</a></td>
-      <td>Case studies for P02 and P03</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_P03_Studi_Kasus.ipynb" target="_blank">P01-Penyelesaian Studi Kasus</a></td>
+      <td>A solution for case study P01</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_P03_Studi_Kasus.ipynb" target="_blank">P02-P03-Penyelesaian Studi Kasus</a></td>
+      <td>A solution for case studies P02 and P03</td>
     </tr> 
     <tr>
-      <td rowspan=3>Jumat, 26 Juni 2020</td>
+      <td rowspan=3>Jumat, 17 Juli 2020</td>
       <td rowspan=3>ME04</td>
       <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P04_SciPy.ipynb">P04-Scipy</a></td>
       <td>A scientific package for scientific computation: integration, differentiation, linear algebra, signal processing, fft, statistics, root finding, optimization, etc.</td>
     </tr>
     <tr>
-      <td>P05-IPython</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P05_IPython.ipynb">P05-IPython</a></td>
       <td>IPython for notebook and its magic :)</td>
     </tr>
     <tr>
-      <td>P04-P05-Studi Kasus</td>
+      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P04_P05_Studi_Kasus.ipynb">P04-P05-Studi Kasus</a></td>
       <td>Case studies for P04 and P05</td>
     </tr>
     <tr>
-      <td>Jumat, 3 Juli 2020</td>
+      <td>Jumat, 24 Juli 2020</td>
       <td>ME05</td>
       <td>P06-Sympy</td>
       <td>A symbolic computing package</td>
