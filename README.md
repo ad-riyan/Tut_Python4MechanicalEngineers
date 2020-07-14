@@ -67,11 +67,11 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>A visualization package</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_P03_Studi_Kasus.ipynb" target="_blank">P01-Penyelesaian Studi Kasus</a></td>
+      <td>P01-Penyelesaian Studi Kasus</td>
       <td>A solution for case study P01</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P02_P03_Studi_Kasus.ipynb" target="_blank">P02-P03-Penyelesaian Studi Kasus</a></td>
+      <td>P02-P03-Penyelesaian Studi Kasus</td>
       <td>A solution for case studies P02 and P03</td>
     </tr> 
     <tr>
@@ -85,7 +85,7 @@ Github [github.com/ad-riyan/Tutorial_Python4MechanicalEngineers](https://github.
       <td>IPython for notebook and its magic :)</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/ad-riyan/Tutorial_Python4MechanicalEngineers/blob/master/P04_P05_Studi_Kasus.ipynb">P04-P05-Studi Kasus</a></td>
+      <td>P04-P05-Studi Kasus</td>
       <td>Case studies for P04 and P05</td>
     </tr>
     <tr>
